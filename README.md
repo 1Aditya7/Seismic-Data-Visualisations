@@ -3,7 +3,7 @@
 ## Introduction  
 This project, undertaken as part of the **Data Visualization with Python (22CSA471)** course at Nitte Meenakshi Institute of Technology (NMIT), focuses on developing a 3D stratigraphic model of the Dutch offshore sector in the North Sea Basin. By leveraging seismic data, well logs, and advanced modeling techniques, the study investigates the geological complexities and hydrocarbon potential of the region. The research enhances geological understanding, facilitates reservoir characterization, and optimizes resource extraction strategies.  
 
-![]()
+![Main Plot](https://github.com/1Aditya7/Seismic-Data-Visualisations/blob/main/f3dutch/main.png)
 
 The project also includes a detailed **report** and a **presentation**, which provide a comprehensive overview of the methodologies and findings.  
 - [Project Report](https://github.com/1Aditya7/Seismic-Data-Visualisations/blob/main/f3dutch/TEAM-2_Report_1NT22CS016.docx)  
